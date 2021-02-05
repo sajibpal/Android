@@ -1,4 +1,4 @@
-package com.example.sajibpal.alertdialog;
+package com.example.sajibpal.alertbilder;
 
 import org.junit.Test;
 

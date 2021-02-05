@@ -1,4 +1,4 @@
-package com.example.sajibpal.alertdialog;
+package com.example.sajibpal.alertbilder;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.sajibpal.alertdialog", appContext.getPackageName());
+        assertEquals("com.example.sajibpal.alertbilder", appContext.getPackageName());
     }
 }
