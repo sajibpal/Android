@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735393022050",
+    "firebase_url": "https://fir-authenticationphone-4e390.firebaseio.com",
+    "project_id": "fir-authenticationphone-4e390",
+    "storage_bucket": "fir-authenticationphone-4e390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735393022050:android:6b897b07ad0fcbdd",
+        "android_client_info": {
+          "package_name": "com.example.sajibpal.firebaseauthenticationphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735393022050-5e6akjc4d0qf50guha5tt1ce7v77l8si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sajibpal.firebaseauthenticationphone",
+            "certificate_hash": "be589e611c1bd8d8751eadba9bbca9474c9efa4a"
+          }
+        },
+        {
+          "client_id": "735393022050-qufl0jlo90796tl1m76sc448l5ui9j08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkWC8IgENoAc7gYzMtDdWz0wkrqAXhAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735393022050-qufl0jlo90796tl1m76sc448l5ui9j08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
